@@ -5,3 +5,8 @@ class Post
    
    
  end
+ 
+ 
+ 
+ 
+ 
