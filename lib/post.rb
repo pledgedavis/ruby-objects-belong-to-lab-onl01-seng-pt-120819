@@ -5,7 +5,7 @@ class Post
  end
  end
  
- post.title
+ 
  
  
  
