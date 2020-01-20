@@ -5,7 +5,7 @@ class Post
  end
  end
  
- author.post.title
+ post.title
  
  
  
